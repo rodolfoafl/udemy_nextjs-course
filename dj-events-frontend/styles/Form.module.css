@@ -33,6 +33,10 @@
   margin-bottom: 20px;
 }
 
+.imagePreview {
+  margin-top: 32px;
+}
+
 @media (max-width: 600px) {
   .grid {
     grid-template-columns: 1fr;
